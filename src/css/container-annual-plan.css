@@ -1,0 +1,7 @@
+.container__annual-plan {
+  width: 305px;
+  height: 90px;
+  background-color: red;
+  margin: 10px auto 0;
+  border-radius: 10px;
+}

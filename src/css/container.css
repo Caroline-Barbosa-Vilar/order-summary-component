@@ -3,6 +3,7 @@
   height: 709px;
   margin: 80px auto;
   border-radius: 20px;
+  background-color: var(--white);
 }
 .container__img img {
   width: 100%;

@@ -1,12 +1,31 @@
 .container__annual-plan {
   width: 305px;
   height: 90px;
-  background-color: red;
+  background-color: aqua;
   margin: 10px auto 0;
   border-radius: 10px;
+  display: flex;
+  justify-content: space-around
 }
 .container__annual-plan img {
-  margin: 18px 0 0 16px;
-  width: 17%;
+  margin-top: 20px;
+  width: 50px;
+  height: 50px;
 }
+.container__annual-plan h5 {
+  /* color: var(--black); */
+  color: red;
+  font-size: 1.7rem;
+  margin: 22px 0 5px -18px;
 
+}
+.container__annual-plan p {
+  font-size: 1.7rem;
+  color: red;
+  margin-left: -22px;
+}
+.container__annual-plan a {
+  color: red;
+  font-size: 1.5rem;
+  margin: 38px -6px 0 0;
+}

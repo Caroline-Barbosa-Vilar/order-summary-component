@@ -20,7 +20,9 @@ main {
   width: 414px;
   height: 788px;
   position: absolute;
-  margin: 100px auto;
+  margin-top: 100px;
+  left: 50%;
+  margin-left: -150px;
   background: url(../img/pattern-background-mobile.svg) no-repeat center;
   background-size: cover;
   background-color: var(--light-blue);

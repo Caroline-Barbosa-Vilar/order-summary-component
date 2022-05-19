@@ -11,6 +11,11 @@
   position: relative;
   border-radius: 15px;
   padding: 18px 0 0 70px;
+  transition: .3s ease-in-out;
+}
+.container__list-button:hover {
+  opacity: .7;
+  cursor: pointer;
 }
 .container__list-button a {
   color: var(--white);
@@ -21,4 +26,8 @@
   font-weight: 900;
   color: var(--gray);
   margin-left: 123px;
+}
+.container__list-cancel a:hover {
+  cursor: pointer; 
+  color:var(--black);
 }

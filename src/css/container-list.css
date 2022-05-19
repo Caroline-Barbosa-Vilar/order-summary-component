@@ -1,0 +1,24 @@
+.container__list {
+  position: absolute;
+}
+.container__list-button {
+  background-color: var(--blue);
+  width: 310px;
+  height: 58px;
+  font-size: 1.7rem;
+  font-weight: 700;
+  margin: 26px;
+  position: relative;
+  border-radius: 15px;
+  padding: 18px 0 0 70px;
+}
+.container__list-button a {
+  color: var(--white);
+}
+.container__list-cancel a {
+  position: relative;
+  font-size: 1.8rem;
+  font-weight: 900;
+  color: var(--gray);
+  margin-left: 123px;
+}

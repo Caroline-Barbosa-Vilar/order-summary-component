@@ -30,4 +30,9 @@
   font-weight: 700;
   margin: 39px -9px 0 0;
   text-decoration: underline;
+  transition: .3s ease-in-out;
+}
+.container__annual-plan a:hover {
+  text-decoration: none;
+  opacity: .7;
 }

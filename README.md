@@ -120,7 +120,7 @@ Essa é uma página de inscrição de um streaming de música fictício. Esse pr
 
 ## Acesse o projeto
 
-Você pode [acessar o projeto aqui](https://bo83dev.github.io/order-summary-component/)  -->
+Você pode [acessar o projeto aqui](https://bo83dev.github.io/order-summary-component/) -->
 
 
 

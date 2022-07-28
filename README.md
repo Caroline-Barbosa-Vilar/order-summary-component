@@ -51,7 +51,7 @@ This is a registration page for a fictitious music streaming. This project is on
 
 ## Access the Project
 
-You can [access the project here](https://bo83dev.github.io/nft-preview-card-component/) 
+You can [access the project here](https://bo83dev.github.io/order-summary-component/) 
 
 Mobile version:
 
@@ -120,7 +120,7 @@ Essa é uma página de inscrição de um streaming de música fictício. Esse pr
 
 ## Acesse o projeto
 
-Você pode [acessar o projeto aqui](https://bo83dev.github.io/nft-preview-card-component/)  -->
+Você pode [acessar o projeto aqui](https://bo83dev.github.io/order-summary-component/) -->
 
 
 

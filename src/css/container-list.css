@@ -2,15 +2,15 @@
   position: absolute;
 }
 .container__list-button {
-  background-color: var(--blue);
-  width: 310px;
-  height: 58px;
+  width: 31rem;
+  height: 5.8rem;
   font-size: 1.7rem;
   font-weight: 700;
-  margin: 26px;
+  margin: 2.6rem;
+  padding: 1.8rem 0 0 7rem;
+  background-color: var(--blue);
+  border-radius: 1.5rem;
   position: relative;
-  border-radius: 15px;
-  padding: 18px 0 0 70px;
   transition: .3s ease-in-out;
 }
 .container__list-button:hover {
@@ -21,13 +21,13 @@
   color: var(--white);
 }
 .container__list-cancel a {
-  position: relative;
   font-size: 1.8rem;
   font-weight: 900;
   color: var(--gray);
-  margin-left: 123px;
+  margin-left: 12.3rem;
+  position: relative;
 }
 .container__list-cancel a:hover {
-  cursor: pointer; 
   color:var(--black);
+  cursor: pointer; 
 }

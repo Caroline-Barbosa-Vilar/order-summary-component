@@ -1,35 +1,35 @@
 .container__annual-plan {
-  width: 305px;
-  height: 90px;
+  width: 30.5rem;
+  height: 9rem;
   background-color: var(--very-light-blue);
-  margin: 10px auto 0;
+  margin: 1rem auto 0;
   border-radius: 10px;
   display: flex;
   justify-content: space-around
 }
 .container__annual-plan img {
-  margin:23px 0 0 -5px;
-  width: 50px;
-  height: 50px;
+  width: 5rem;
+  height: 5rem;
+  margin: 2.3rem 0 0 -0.5rem;
 }
 .container__annual-plan h5 {
-  color:var(--black);
   font-size: 1.6rem;
-  margin: 24px 0 5px -32px;
   font-weight: 900;
+  color:var(--black);
+  margin: 2.4rem 0 .05rem -3.2rem;
   opacity: .8;
 }
 .container__annual-plan p {
   font-size: 1.6rem;
   color: var(--gray);
-  margin: -3px 0 0 -28px;
+  margin: -0.3rem 0 0 -2.8rem;
   opacity: .8;
 }
 .container__annual-plan a {
   font-size: 1.5rem;
   font-weight: 700;
-  margin: 39px -9px 0 0;
   text-decoration: underline;
+  margin: 3.9rem -0.9rem 0 0;
   transition: .3s ease-in-out;
 }
 .container__annual-plan a:hover {

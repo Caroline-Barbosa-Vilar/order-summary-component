@@ -1,3 +1,5 @@
+  @import url('https://fonts.googleapis.com/css2?family=Red+Hat+Display:wght@600;700;900&display=swap');
+
 :root {
   --white:#ffffff;
   --very-light-blue:#f4f7ff;
@@ -13,24 +15,14 @@ html {
   font-size:62.5%;
   font-family:var(--red-hat-display);
 }
-body {
-  min-height: 100vh;
-}
 main {
-  width: 414px;
-  height: 788px;
+  width: 41.4rem;
+  height: 78.8rem;
+  margin: 5rem auto;
   position: absolute;
-  margin-top: 80px;
-  left: 50%;
-  margin-left: -150px;
+  top: 5rem;
+  left: 40%;
   background: url(../img/pattern-background-mobile.svg) no-repeat center;
   background-size: cover;
   background-color: var(--light-blue);
-}
-@media screen and (min-width:768px) {
-  main {
-    width: 100vw;
-    background: url(../img/pattern-background-desktop.svg) no-repeat center;
-    background-size: cover;
-  }
 }

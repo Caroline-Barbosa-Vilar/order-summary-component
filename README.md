@@ -3,7 +3,9 @@
 <h1 align='center'> Order Summary Component </h1>
 
 <div align='center'>
-	<img src="http://img.shields.io/static/v1?label=STATUS&message=DEVELOPING&color=yellow&style=for-the-badge"/>
+   <a href="https://github.com/Caroline-Barbosa-Vilar/order-summary-component/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/Caroline-Barbosa-Vilar/order-summary-component"></a>
+   <a href="https://github.com/Caroline-Barbosa-Vilar/order-summary-component/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/Caroline-Barbosa-Vilar/order-summary-component"></a>
+   <a href="https://github.com/Caroline-Barbosa-Vilar/order-summary-component/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/Caroline-Barbosa-Vilar/order-summary-component"></a>
 </div>
 
 _Para a versão em Português, clique [aqui](#portuguese)._ 
@@ -13,23 +15,22 @@ _Para a versão em Português, clique [aqui](#portuguese)._
 - [Project description](#project-description)
 
 - [Technologies used](#technologies-used)
-<!-- 
+
 - [What I learned](#what-I-learned)
 
-- [Comparing the result](#comparing-the-result)
-
 - [Access the Project](#access-the-project)
- -->
+
+<br>
 
 ## Project description
 
 <p align="justify">
+This is a registration page for a fictitious music streaming. I used this challenge to practice the use of position with flexbox.
 
-This is a registration page for a fictitious music streaming. This project is one of the challenges proposed on the [Frontend Mentor](https://www.frontendmentor.io/home) site. The challenge is to recreate the project without the guidance of a design tool (figma) and making it as close as possible to the requested one. 
-
-[The challenge](https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj)
-
+This project is one of the challenges proposed on the [Frontend Mentor](https://www.frontendmentor.io/home) site. The challenge is to recreate the project without the guidance of a design tool (figma) and making it as close as possible to the requested one. 
 </p>
+
+<br>
 
 ## Technologies used
 
@@ -38,34 +39,23 @@ This is a registration page for a fictitious music streaming. This project is on
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 </div>
 
-<!-- 
+<br>
+
 ## What I learned
 
-- How to create and apply the 'active state' features proposed in the challenge using CSS.
+- How to the use of position and flexbox together.
 
-
-## Comparing the result
-
-<div align='center'> <img src="./src/nft-preview-card-solution.gif" alt="Of my frontend mentor resolution"> </div>
-
+<br>
 
 ## Access the Project
 
-You can [access the project here](https://bo83dev.github.io/order-summary-component/) 
+You can [access the project here](https://caroline-barbosa-vilar.github.io/order-summary-component/) 
 
-Mobile version:
+Desktop:
 
-<img src="./src/nft-preview-card-mobile.gif" alt="The NFT preview card mobile screen gif">
+<img src="./src/order-summary-desktop-screen.gif" alt="desktop screen gif">
 
-Tablet version:
-
-<img src="./src/nft-preview-card-tablet.gif" alt="The NFT preview card tablet screen gif">
-
-Desktop version:
-
-<img src="./src/nft-preview-card-desktop.gif" alt="The NFT preview card  desktop screen gif"> -->
-
-
+<br>
 
 <div id="portuguese">
 
@@ -74,7 +64,9 @@ Desktop version:
 
 
 <div align='center'>
-	<img src="http://img.shields.io/static/v1?label=STATUS&message=DEVELOPING&color=yellow&style=for-the-badge"/>
+   <a href="https://github.com/Caroline-Barbosa-Vilar/order-summary-component/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/Caroline-Barbosa-Vilar/order-summary-component"></a>
+   <a href="https://github.com/Caroline-Barbosa-Vilar/order-summary-component/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/Caroline-Barbosa-Vilar/order-summary-component"></a>
+   <a href="https://github.com/Caroline-Barbosa-Vilar/order-summary-component/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/Caroline-Barbosa-Vilar/order-summary-component"></a>
 </div>
 
 
@@ -84,23 +76,21 @@ Desktop version:
 
 - [Tecnologias utilizadas](#tecnologias-utilizadas)
 
-<!-- - [O que aprendi](#o-que-aprendi)
+- [O que aprendi](#o-que-aprendi)
 
-- [Comparando o resultado](#comparando-o-resultado)
+- [Acesse o projeto](#acesse-o-projeto)
 
-- [Acesse o projeto](#acesse-o-projeto) -->
-
+<br>
 
 ## Descrição do projeto 
 
 <p align="justify">
+Essa é uma página de inscrição de um streaming de música fictício. Utilizei esse desafio para praticar o uso de 'position' com 'flexbox'.
 
-Essa é uma página de inscrição de um streaming de música fictício. Esse projeto é um dos desafios propostos no site [Frontend Mentor](https://www.frontendmentor.io/home) e o desafio é recriar o projeto sem o auxílio de ferramentas de design (figma) deixando-o mais próximo possível do solicitado. 
-
-[O desafio](https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj)
-
+Esse projeto é um dos desafios propostos no site [Frontend Mentor](https://www.frontendmentor.io/home) e o desafio é recriar o projeto sem o auxílio de ferramentas de design (figma) deixando-o mais próximo possível do solicitado. 
 </p>
 
+<br>
 
 ## Tecnologias utilizadas
 
@@ -109,21 +99,21 @@ Essa é uma página de inscrição de um streaming de música fictício. Esse pr
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 </div>
 
-<!-- ## O que aprendi
+<br>
 
-- Como criar o comportamento proposto quando o mouse passar encima da imagem usando CSS.
+## O que aprendi
 
-## Comparando o resultado
+- Como usar positon e flexbox juntos.
 
-<div align='center'> <img src="./src/nft-preview-card-solution.gif" alt="Of my frontend mentor resolution"> </div>
-
+<br>
 
 ## Acesse o projeto
 
-Você pode [acessar o projeto aqui](https://bo83dev.github.io/order-summary-component/) -->
+Você pode [acessar o projeto aqui](https://caroline-barbosa-vilar.github.io/order-summary-component/)
 
+<img src="./src/order-summary-desktop-screen.gif" alt="desktop screen gif">
 
-
+<br>
 <hr>
 
 Developed with 🧡 by me!  [Carol Vilar](https://www.linkedin.com/in/carolinebarbosavilar/)

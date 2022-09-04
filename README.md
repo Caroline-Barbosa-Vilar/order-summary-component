@@ -43,7 +43,7 @@ This project is one of the challenges proposed on the [Frontend Mentor](https://
 
 ## What I learned
 
-- How to the use of position and flexbox together.
+- How to use position and flexbox together.
 
 <br>
 

@@ -109,7 +109,7 @@ Esse projeto é um dos desafios propostos no site [Frontend Mentor](https://www.
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
    
  <p>Após refatorar</p>
-  <img src="https://img.shields.io/badge/React.js-17.0.2-61DAFB?style=for-the-badge&logo=react&logoColor=white">
+ <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=white">
 </div>
 
 <br>

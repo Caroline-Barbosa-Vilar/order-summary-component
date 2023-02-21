@@ -41,7 +41,7 @@ This project is one of the challenges proposed on the [Frontend Mentor](https://
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
    
    <p>After refactoring</p>
-   <img src="https://img.shields.io/badge/React.js-17.0.2-61DAFB?style=for-the-badge&logo=react&logoColor=white">
+   <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=white">
 </div>
 
 <br>

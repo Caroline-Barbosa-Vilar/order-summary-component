@@ -1,4 +1,4 @@
-<div align='center'> <img src="./src/frontend-mentor.png" alt="the frontend mentor challenge site logo"> </div>
+<div align='center'> <img src="./src/assets/img/ReadmeImages/frontend-mentor.png" alt="the frontend mentor challenge site logo"> </div>
 
 <h1 align='center'> Order Summary Component </h1>
 
@@ -18,7 +18,7 @@ _Para a versão em Português, clique [aqui](#portuguese)._
 
 - [What I learned](#what-I-learned)
 
-- [Access the Project](#access-the-project)
+- [The result](#the-result)
 
 <br>
 
@@ -35,25 +35,32 @@ This project is one of the challenges proposed on the [Frontend Mentor](https://
 ## Technologies used
 
 <div>
+   #### Before refactoring
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+   
+   #### After refactoring
+   <img src="https://img.shields.io/badge/REACT-E34F26?style=for-the-badge&logo=react&logoColor=white">
 </div>
 
 <br>
 
 ## What I learned
 
+ #### Before refactoring
 - How to use position and flexbox together.
+
+#### After refactoring
+- Recriar o projeto pensando na estrutura de componentes,
+- A refatorar o projeto todo usando a lib e o Vite.js
+
+## The result
 
 <br>
 
-## Access the Project
-
-You can [access the project here](https://caroline-barbosa-vilar.github.io/order-summary-component/) 
-
 Desktop:
 
-<img src="./src/order-summary-desktop-screen.gif" alt="desktop screen gif">
+<img src="./src/assets/img/ReadmeImages/order-summary-desktop-screen.gif" alt="desktop screen gif">
 
 <br>
 
@@ -78,7 +85,7 @@ Desktop:
 
 - [O que aprendi](#o-que-aprendi)
 
-- [Acesse o projeto](#acesse-o-projeto)
+- [Resultado](#resultado)
 
 <br>
 
@@ -95,23 +102,32 @@ Esse projeto é um dos desafios propostos no site [Frontend Mentor](https://www.
 ## Tecnologias utilizadas
 
 <div>
+   #### Antes de refatorar
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+   
+   #### Após refatorar
+   <img src="https://img.shields.io/badge/REACT-E34F26?style=for-the-badge&logo=react&logoColor=white">
 </div>
 
 <br>
 
 ## O que aprendi
 
+#### Antes de refatorar   
 - Como usar positon e flexbox juntos.
+   
+#### Após refatorar
+- Recriar o projeto pensando na estrutura de componentes,
+- A refatorar o projeto todo usando a lib e o Vite.js
+   
+<br>
+
+## Resultado
 
 <br>
 
-## Acesse o projeto
-
-Você pode [acessar o projeto aqui](https://caroline-barbosa-vilar.github.io/order-summary-component/)
-
-<img src="./src/order-summary-desktop-screen.gif" alt="desktop screen gif">
+<img src="./src/assets/img/ReadmeImages/order-summary-desktop-screen.gif" alt="desktop screen gif">
 
 <br>
 <hr>

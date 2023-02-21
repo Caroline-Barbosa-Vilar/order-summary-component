@@ -35,22 +35,23 @@ This project is one of the challenges proposed on the [Frontend Mentor](https://
 ## Technologies used
 
 <div>
-   #### Before refactoring
+<br>   
+  <p>Before refactoring</p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
    
-   #### After refactoring
-   <img src="https://img.shields.io/badge/REACT-E34F26?style=for-the-badge&logo=reactjs&logoColor=white">
+   <p>After refactoring</p>
+   <img src="https://img.shields.io/badge/React.js-17.0.2-61DAFB?style=for-the-badge&logo=react&logoColor=white">
 </div>
 
 <br>
 
 ## What I learned
 
- #### Before refactoring
+<p>Before refactoring</p>
 - How to use position and flexbox together.
 
-#### After refactoring
+<p>After refactoring</p>
 - Recriar o projeto pensando na estrutura de componentes,
 - A refatorar o projeto todo usando a lib e o Vite.js
 
@@ -102,22 +103,23 @@ Esse projeto é um dos desafios propostos no site [Frontend Mentor](https://www.
 ## Tecnologias utilizadas
 
 <div>
-   #### Antes de refatorar
+<br>
+ <p>Antes de refatorar</p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
    
-   #### Após refatorar
-   <img src="https://img.shields.io/badge/REACT-E34F26?style=for-the-badge&logo=react&logoColor=white">
+ <p>Após refatorar</p>
+  <img src="https://img.shields.io/badge/React.js-17.0.2-61DAFB?style=for-the-badge&logo=react&logoColor=white">
 </div>
 
 <br>
 
 ## O que aprendi
 
-#### Antes de refatorar   
+<p>Antes de refatorar</p>   
 - Como usar positon e flexbox juntos.
    
-#### Após refatorar
+<p>Após refatorar</p>
 - Recriar o projeto pensando na estrutura de componentes,
 - A refatorar o projeto todo usando a lib e o Vite.js
    

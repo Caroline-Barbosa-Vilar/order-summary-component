@@ -16,9 +16,12 @@ _Para a versão em Português, clique [aqui](#portuguese)._
 
 - [Technologies used](#technologies-used)
 
+- [Access the Project](#access-the-project)
+
 - [What I learned](#what-I-learned)
 
 - [The result](#the-result)
+
 
 <br>
 
@@ -43,6 +46,12 @@ This project is one of the challenges proposed on the [Frontend Mentor](https://
    <p>After refactoring</p>
    <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=white">
 </div>
+
+<br>
+
+## Access the Project
+
+You can [access the project here](https://order-summary-component-alpha-eight.vercel.app/) 
 
 <br>
 
@@ -83,6 +92,8 @@ Desktop:
 - [Descrição do projeto](#descrição-do-projeto)
 
 - [Tecnologias utilizadas](#tecnologias-utilizadas)
+   
+- [Acesse o projeto](#acesse-o-projeto)
 
 - [O que aprendi](#o-que-aprendi)
 
@@ -112,6 +123,12 @@ Esse projeto é um dos desafios propostos no site [Frontend Mentor](https://www.
  <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=white">
 </div>
 
+<br>
+
+## Acesse o projeto
+
+Você pode [acessar o projeto aqui](https://order-summary-component-alpha-eight.vercel.app/)
+   
 <br>
 
 ## O que aprendi

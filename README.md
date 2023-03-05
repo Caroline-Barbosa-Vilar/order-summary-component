@@ -61,8 +61,8 @@ You can [access the project here](https://order-summary-component-alpha-eight.ve
 - How to use position and flexbox together.
 
 <p>After refactoring</p>
-- Recriar o projeto pensando na estrutura de componentes,
-- A refatorar o projeto todo usando a lib e o Vite.js
+- Recreate the project with the component structure in mind,
+- Refactoring the whole project using styled-components and Vite.js
 
 ## The result
 
@@ -138,7 +138,7 @@ Você pode [acessar o projeto aqui](https://order-summary-component-alpha-eight.
    
 <p>Após refatorar</p>
 - Recriar o projeto pensando na estrutura de componentes,
-- A refatorar o projeto todo usando a lib e o Vite.js
+- A refatorar o projeto todo usando styled-components e o Vite.js
    
 <br>
 
